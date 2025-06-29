@@ -23,6 +23,21 @@ This is a collection of resources for studying normalization-by-evaluation & its
  - Berger, Ulrich, and Helmut Schwichtenberg. "An inverse of the evaluation functional for typed lambda-calculus." (1991): 203-211.
    <br>[URL](https://epub.ub.uni-muenchen.de/4261/1/4261.pdf), [webarchive](http://web.archive.org/web/20250628221736/https://epub.ub.uni-muenchen.de/4261/1/4261.pdf)
 
+### 1996
+
+ - Danvy, Olivier. "Type-directed partial evaluation." Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1996.
+   <br>[URL](https://dl.acm.org/doi/pdf/10.1145/237721.237784)
+
+### 1997
+
+ - Coquand, Thierry, and Peter Dybjer. "Intuitionistic model constructions and normalization proofs." Mathematical Structures in Computer Science 7.1 (1997): 75-94.
+   <br>[URL](http://www.cs.ru.nl/~herman/PUBS/NijmegenTypes.pdf#page=95), [webarchive](http://web.archive.org/web/20240420151416/http://www.cs.ru.nl/~herman/PUBS/NijmegenTypes.pdf#page=95)
+
+### 1999
+
+ - Filinski, Andrzej. "A semantic account of type-directed partial evaluation." International Conference on Principles and Practice of Declarative Programming. Berlin, Heidelberg: Springer Berlin Heidelberg, 1999.
+   <br>[URL](https://www.brics.dk/RS/99/17/BRICS-RS-99-17.pdf), [webarchive](http://web.archive.org/web/20240416214621/https://www.brics.dk/RS/99/17/BRICS-RS-99-17.pdf)
+
 ### 2001
 
  - Altenkirch, Thorsten, et al. "Normalization by evaluation for typed lambda calculus with coproducts." Proceedings 16th Annual IEEE Symposium on Logic in Computer Science. IEEE, 2001.
@@ -34,6 +49,13 @@ This is a collection of resources for studying normalization-by-evaluation & its
 
  - Filinski, Andrzej, and Henning Korsholm Rohde. "Denotational aspects of untyped normalization by evaluation." RAIRO-Theoretical Informatics and Applications 39.3 (2005): 423-453.
    <br>[URL](https://www.numdam.org/item/10.1051/ita:2005026.pdf), [webarchive](http://web.archive.org/web/20240415161150/http://www.numdam.org/item/10.1051/ita:2005026.pdf)
+
+### 2007
+
+ - Abel, Andreas, Klaus Aehlig, and Peter Dybjer. "Normalization by evaluation for Martin-Löf type theory with one universe." Electronic Notes in Theoretical Computer Science 173 (2007): 17-39.
+   <br>[URL](https://www.cse.chalmers.se/~peterd/papers/NbeMLTT.pdf), [webarchive](http://web.archive.org/web/20240420045941/https://www.cse.chalmers.se/~peterd/papers/NbeMLTT.pdf)
+ - Abel, Andreas, Thierry Coquand, and Peter Dybjer. "Normalization by evaluation for Martin-Löf Type Theory with typed equality judgements." 22nd Annual IEEE Symposium on Logic in Computer Science (LICS 2007). IEEE, 2007.
+   <br>[URL](https://www.cse.chalmers.se/~peterd/papers/NbeMLTTEqualityJudgements.pdf), [webarchive](http://web.archive.org/save/https://www.cse.chalmers.se/~peterd/papers/NbeMLTTEqualityJudgements.pdf)
 
 ### 2009
 
@@ -63,6 +85,11 @@ This is a collection of resources for studying normalization-by-evaluation & its
 
  - Abel, Andreas, Andrea Vezzosi, and Theo Winterhalter. "Normalization by evaluation for sized dependent types." Proceedings of the ACM on Programming Languages 1.ICFP (2017): 1-30.
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/3110277), [webarchive](http://web.archive.org/web/20250628215415/https://dl.acm.org/doi/pdf/10.1145/3110277)
+
+### 2019
+
+ - Gratzer, Daniel, Jonathan Sterling, and Lars Birkedal. "Implementing a modal dependent type theory." Proceedings of the ACM on Programming Languages 3.ICFP (2019): 1-29.
+   <br>[URL](http://www.danielgratzer.com/papers/2019-implementing-modal-dependent-type-theory.pdf), [webarchive](http://web.archive.org/web/20241214000208/https://www.danielgratzer.com/papers/2019-implementing-modal-dependent-type-theory.pdf)
 
 ### 2021
 
