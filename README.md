@@ -1,4 +1,4 @@
-# `NbE-resources`
+# 📚 `NbE-resources`
 
 Normalization-by-evaluation ("NbE" for short) is an elegant technique for computing normal forms of object language terms. It consists of only two parts: _evaluation_ (_reflection_, _denotation_), which maps syntactic terms to the semantic domain, and _quotation_ (_read-back_, _reification_), which maps values from the semantic domain back to terms. The composition of evaluation followed by quotation is called _normalization_. One classical example of normalization-by-evaluation is computing β-normal forms of lambda calculus terms, optionally enriched with additional constructions. Alongside with bidirectional type checking, normalization-by-evaluation is considered traditional in the implementation of dependently typed programming languages & proof assistants based on type theory.
 
