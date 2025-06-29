@@ -19,6 +19,7 @@ This is a collection of resources for studying normalization-by-evaluation & its
 
  - [_"A Brief Introduction to Normalization-By-Evaluation"_](https://gist.github.com/etiams/7fbb66a46b2a43be908ccd4015d00fb9) by Louis F. Ashfield.
  - [_"Checking Dependent Types with Normalization by Evaluation: A Tutorial"_](https://davidchristiansen.dk/tutorials/nbe/) by David Thrane Christiansen.
+   - [Haskell version](https://davidchristiansen.dk/tutorials/implementing-types-hs.pdf)
  - [_"Normalization by Evaluation Four Ways: Reconstructing NbE Designs from First Principles"_](https://williamjbowman.com/tmp/nbe-four-ways/) by William J. Bowman.
  - [_"Elementary Tutorial on Normalization-by-Evaluation"_](https://okmij.org/ftp/tagless-final/NBE.html) by Oleg Kiselyov.
  - [_"Evaluators, Normalizers, Reducers: from denotational to operational semantics"_](https://okmij.org/ftp/tagless-final/semantics.html) by Oleg Kiselyov.
