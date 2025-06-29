@@ -7,14 +7,14 @@ This is a collection of resources for studying normalization-by-evaluation & its
 ## Projects
 
  - [`AndrasKovacs/elaboration-zoo`](https://github.com/AndrasKovacs/elaboration-zoo) -- Minimal implementations for dependent type checking and elaboration.
- - [`nguermond/normalization-by-evaluation`](https://github.com/nguermond/normalization-by-evaluation) -- Various implementations of normalization by evaluation.
- - [`jozefg/nbe-for-mltt`](https://github.com/jozefg/nbe-for-mltt) -- Normalization by Evaluation for Martin-Löf Type Theory.
- - [`AndrasKovacs/sysF-NbE`](https://github.com/AndrasKovacs/sysF-NbE) -- Normalization by evaluation for intrinsic System F.
- - [`nachivpn/nbe-edsl`](https://github.com/nachivpn/nbe-edsl) -- Normalization by Evaluation for Embedded Domain-specific Languages.
- - [`src/Core/Normalise/Eval.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Eval.idr), [`Quote.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Quote.idr) -- Normalization-by-evaluation in Idris2.
- - [`src/full/Agda/TypeChecking/Reducer.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Reduce.hs), [`Quote.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Quote.hs) - Normalization-by-evaluation in Agda.
- - [`webyrd/normalization-by-evaluation`](https://github.com/webyrd/normalization-by-evaluation) -- Normalization-by-evaluation in miniKanren.
- - [`examples/benchmarks/other/nbe.effekt`](https://github.com/effekt-lang/effekt/blob/master/examples/benchmarks/other/nbe.effekt) -- Normalization by Evaluation for the Lambda Calculus in Effekt.
+ - [`nguermond/normalization-by-evaluation`](https://github.com/nguermond/normalization-by-evaluation) -- Various implementations of normalization-by-evaluation.
+ - [`jozefg/nbe-for-mltt`](https://github.com/jozefg/nbe-for-mltt) -- Normalization-by-evaluation for Martin-Löf Type Theory.
+ - [`AndrasKovacs/sysF-NbE`](https://github.com/AndrasKovacs/sysF-NbE) -- Normalization-by-evaluation for intrinsic System F.
+ - [`nachivpn/nbe-edsl`](https://github.com/nachivpn/nbe-edsl) -- Normalization-by-evaluation for embedded domain-specific languages.
+ - [`src/Core/Normalise/Eval.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Eval.idr), [`Quote.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Quote.idr) -- Normalization-by-evaluation for Idris2.
+ - [`src/full/Agda/TypeChecking/Reducer.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Reduce.hs), [`Quote.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Quote.hs) - Normalization-by-evaluation for Agda.
+ - [`webyrd/normalization-by-evaluation`](https://github.com/webyrd/normalization-by-evaluation) -- Normalization-by-evaluation for miniKanren.
+ - [`examples/benchmarks/other/nbe.effekt`](https://github.com/effekt-lang/effekt/blob/master/examples/benchmarks/other/nbe.effekt) -- Normalization-by-evaluation for the lambda calculus in Effekt.
 
 ## Blog posts
 
