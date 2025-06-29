@@ -14,6 +14,7 @@ This is a collection of resources for studying normalization-by-evaluation & its
  - [`src/Core/Normalise/Eval.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Eval.idr), [`Quote.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Quote.idr) -- Normalization-by-evaluation in Idris2.
  - [`src/full/Agda/TypeChecking/Reducer.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Reduce.hs), [`Quote.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Quote.hs) - Normalization-by-evaluation in Agda.
  - [`webyrd/normalization-by-evaluation`](https://github.com/webyrd/normalization-by-evaluation) -- Normalization-by-evaluation in miniKanren.
+ - [`examples/benchmarks/other/nbe.effekt`](https://github.com/effekt-lang/effekt/blob/master/examples/benchmarks/other/nbe.effekt) -- Normalization by Evaluation for the Lambda Calculus in Effekt.
 
 ## Blog posts
 
