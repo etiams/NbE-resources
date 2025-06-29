@@ -12,7 +12,6 @@ This is a collection of resources for studying normalization-by-evaluation & its
  - [`AndrasKovacs/sysF-NbE`](https://github.com/AndrasKovacs/sysF-NbE) -- Normalization-by-evaluation for intrinsic System F.
  - [`nachivpn/nbe-edsl`](https://github.com/nachivpn/nbe-edsl) -- Normalization-by-evaluation for embedded domain-specific languages.
  - [`src/Core/Normalise/Eval.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Eval.idr), [`Quote.idr`](https://github.com/idris-lang/Idris2/blob/main/src/Core/Normalise/Quote.idr) -- Normalization-by-evaluation for Idris2.
- - [`src/full/Agda/TypeChecking/Reducer.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Reduce.hs), [`Quote.hs`](https://github.com/agda/agda/blob/master/src/full/Agda/TypeChecking/Quote.hs) - Normalization-by-evaluation for Agda.
  - [`webyrd/normalization-by-evaluation`](https://github.com/webyrd/normalization-by-evaluation) -- Normalization-by-evaluation for miniKanren.
  - [`examples/benchmarks/other/nbe.effekt`](https://github.com/effekt-lang/effekt/blob/master/examples/benchmarks/other/nbe.effekt) -- Normalization-by-evaluation for the lambda calculus in Effekt.
 
